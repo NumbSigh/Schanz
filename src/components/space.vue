@@ -33,7 +33,7 @@ export default {
 
     let that = this
 
-    //when user resize window
+    //when user resize window 111
     window.addEventListener( 'resize', onWindowResize, false )
 
     function onWindowResize(){
